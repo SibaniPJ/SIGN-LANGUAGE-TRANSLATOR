@@ -21,7 +21,7 @@ This project is a **Real-Time Sign Language Translator** that detects and recogn
 | Field | Information |
 |------|-------------|
 | **Project Title** | Sign Language Translator |
-| **Student Name** | *Kiran Priyadarshini Mohapatra* |
+| **Student Name** | *Sibani Priyadarshini Jena* |
 | **Model Used** | Mediapipe + Neural Network |
 | **Dataset** | Collected manually using webcam |
 | **Output Type** | Shows predicted letter live on webcam |
