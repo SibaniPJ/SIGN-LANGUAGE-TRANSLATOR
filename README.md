@@ -61,9 +61,9 @@ sign_language_translator/
         python app.py
 
 ## 🎥 Output (How It Works)
-1.Open the webcam window
-2.Show a hand gesture corresponding to A–Z
-3.The system will display the predicted letter on screen
+1.   Open the webcam window
+2.   Show a hand gesture corresponding to A–Z
+3.   The system will display the predicted letter on screen
 
        
 
